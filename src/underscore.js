@@ -1,4 +1,4 @@
-// AMD Wrapper Header
+// Wrapper Header
 define(function(require, exports, module) {
 
 //     Underscore.js 1.4.4
@@ -1228,5 +1228,5 @@ define(function(require, exports, module) {
 
 }).call(this);
 
-// AMD Wrapper Footer
+// Wrapper Footer
 });
