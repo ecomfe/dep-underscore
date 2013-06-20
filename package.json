@@ -2,7 +2,7 @@
     "name": "underscore",
     "description": "JavaScript's functional programming helper library.",
     "version": "1.4.4",
-    "main": "underscore.js",
+    "main": "underscore",
     "repository": {
         "type": "git",
         "url": "git://github.com/ecomfe/dep-underscore.git"
