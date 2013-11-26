@@ -1,7 +1,7 @@
 {
     "name": "underscore",
     "description": "JavaScript's functional programming helper library.",
-    "version": "1.4.4",
+    "version": "1.5.2",
     "main": "underscore",
     "repository": {
         "type": "git",
